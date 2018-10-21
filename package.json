@@ -1,0 +1,34 @@
+{
+  "name": "discord-turkce-muzik-bot-master",
+  "version": "1.0.0",
+  "description": "Github'da yayınlanan ilk ve tek, Türkçe müzik botu.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Serhann/discord-turkce-muzik-bot/"
+  },
+  "keywords": [
+    "türkçe",
+    "discord",
+    "müzik",
+    "bot"
+  ],
+  "author": "Serhann",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "common-tags": "^1.8.0",
+    "crypto": "^1.0.1",
+    "discord.js": "^11.1.0",
+    "moment": "^2.22.2",
+    "moment-duration-format": "^2.2.2",
+    "ms": "^2.1.1",
+    "node-superfetch": "^0.1.9",
+    "snekfetch": "^4.0.4",
+    "weather-js": "^2.0.0",
+    "ytdl-core": "^0.15.2"
+  }
+}
